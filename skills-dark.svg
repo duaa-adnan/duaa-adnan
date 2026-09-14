@@ -1,0 +1,24 @@
+<svg width="760" height="250" viewBox="0 0 760 250" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="250" rx="10" fill="#0d1117" stroke="#232b36" stroke-width="1.5"/>
+  
+  <text x="26" y="40" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">SIEM &amp; Detection Engineering</text>
+  <rect x="26" y="50" width="560" height="8" rx="4" fill="#232b36"/>
+  <rect x="26" y="50" width="504" height="8" rx="4" fill="#4ADE80"/>
+  <text x="600" y="58" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">90%</text>
+  <text x="26" y="80" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">Digital Forensics &amp; Incident Response</text>
+  <rect x="26" y="90" width="560" height="8" rx="4" fill="#232b36"/>
+  <rect x="26" y="90" width="492" height="8" rx="4" fill="#4ADE80"/>
+  <text x="600" y="98" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">88%</text>
+  <text x="26" y="120" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">Malware Analysis</text>
+  <rect x="26" y="130" width="560" height="8" rx="4" fill="#232b36"/>
+  <rect x="26" y="130" width="448" height="8" rx="4" fill="#fb923c"/>
+  <text x="600" y="138" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">80%</text>
+  <text x="26" y="160" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">Network Security &amp; IDS</text>
+  <rect x="26" y="170" width="560" height="8" rx="4" fill="#232b36"/>
+  <rect x="26" y="170" width="459" height="8" rx="4" fill="#60a5fa"/>
+  <text x="600" y="178" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">82%</text>
+  <text x="26" y="200" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">Security Automation (n8n / AI)</text>
+  <rect x="26" y="210" width="560" height="8" rx="4" fill="#232b36"/>
+  <rect x="26" y="210" width="420" height="8" rx="4" fill="#fbbf24"/>
+  <text x="600" y="218" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">75%</text>
+</svg>

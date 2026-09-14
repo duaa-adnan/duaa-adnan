@@ -1,0 +1,19 @@
+<svg width="760" height="230" viewBox="0 0 760 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="230" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <rect x="0" y="0" width="5" height="230" rx="2" fill="#7c3aed"/>
+  <text x="26" y="30" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="bold" fill="#7c3aed">TICKET #EXP-002</text>
+  <text x="330" y="30" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#57606a">PRIORITY: P2</text>
+  <text x="652" y="30" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#15803d">STATUS: CLOSED</text>
+  <line x1="26" y1="44" x2="734" y2="44" stroke="#d0d7de" stroke-width="1"/>
+  <text x="26" y="62" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#7c3aed">[ORG]</text>
+  <text x="90" y="62" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#24292f">IT Simplera Solutions (Remote)</text>
+  <text x="26" y="84" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#7c3aed">[ROLE]</text>
+  <text x="90" y="84" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="bold" fill="#24292f">SOC Analyst Intern, Blue Team</text>
+  <text x="26" y="106" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#7c3aed">[DATES]</text>
+  <text x="90" y="106" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#57606a">Jul 2026 - Aug 2026</text>
+  <line x1="26" y1="122" x2="734" y2="122" stroke="#d0d7de" stroke-width="1"/>
+  <text x="26" y="146" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#57606a">RESOLUTION NOTES:</text>
+  <text x="26" y="166" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#57606a">Deployed Wazuh SIEM with File Integrity Monitoring, configured pfSense with</text>
+  <text x="26" y="186" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#57606a">pfBlockerNG, and integrated Squid Proxy, ClamAV, and Syslog-NG with custom</text>
+  <text x="26" y="206" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#57606a">decoders. Built a 5-node n8n + Gemini AI pipeline for automated alert triage.</text>
+</svg>

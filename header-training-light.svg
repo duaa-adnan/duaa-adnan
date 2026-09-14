@@ -1,0 +1,5 @@
+<svg width="760" height="46" viewBox="0 0 760 46" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="46" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <rect x="0" y="0" width="5" height="46" rx="2" fill="#a16207"/>
+  <text x="26" y="29" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="bold" fill="#24292f">== TRAINING &amp; CASE LOG ==</text>
+</svg>

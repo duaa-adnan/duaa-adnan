@@ -1,0 +1,31 @@
+<svg width="760" height="310" viewBox="0 0 760 310" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="310" rx="10" fill="#0d1117" stroke="#232b36" stroke-width="1.5"/>
+  
+  <rect x="34" y="34" width="120" height="120" rx="14" fill="#0f1620" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="50" y="84" font-family="Consolas, 'Courier New', monospace" font-size="30" fill="#4ADE80">&gt;_</text>
+  <rect x="50" y="100" width="34" height="6" fill="#4ADE80">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="194" y="50" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="bold" fill="#4ADE80">duaa-adnan@soc-console</text>
+  <line x1="194" y1="66" x2="734" y2="66" stroke="#232b36" stroke-width="1"/>
+  <text x="194" y="92" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#4ADE80">OS</text>
+  <text x="284" y="92" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">SOC Analyst Intern</text>
+  <text x="194" y="116" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#4ADE80">Host</text>
+  <text x="284" y="116" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">MAHSA University</text>
+  <text x="194" y="140" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#4ADE80">Kernel</text>
+  <text x="284" y="140" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">B.S. Information Technology</text>
+  <text x="194" y="164" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#4ADE80">Uptime</text>
+  <text x="284" y="164" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">2025 - 2028</text>
+  <text x="194" y="188" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#4ADE80">Shell</text>
+  <text x="284" y="188" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">Wazuh, Suricata, pfSense</text>
+  <text x="194" y="212" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#4ADE80">Tools</text>
+  <text x="284" y="212" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">FTK Imager, Autopsy, EZ Tools, n8n, Gemini</text>
+  <text x="194" y="236" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#4ADE80">Focus</text>
+  <text x="284" y="236" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">SIEM, DFIR, Malware Analysis, Threat Hunting</text>
+  <rect x="194" y="278" width="20" height="14" rx="3" fill="#4ADE80"/>
+  <rect x="220" y="278" width="20" height="14" rx="3" fill="#fb923c"/>
+  <rect x="246" y="278" width="20" height="14" rx="3" fill="#fbbf24"/>
+  <rect x="272" y="278" width="20" height="14" rx="3" fill="#60a5fa"/>
+  <rect x="298" y="278" width="20" height="14" rx="3" fill="#f87171"/>
+  <rect x="324" y="278" width="20" height="14" rx="3" fill="#a78bfa"/>
+</svg>

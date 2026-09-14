@@ -1,0 +1,20 @@
+<svg width="760" height="150" viewBox="0 0 760 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="150" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <rect width="760" height="34" rx="10" fill="#eaeef2"/>
+  <rect y="24" width="760" height="10" fill="#eaeef2"/>
+  <circle cx="24" cy="17" r="6" fill="#dc2626"/>
+  <circle cx="46" cy="17" r="6" fill="#a16207"/>
+  <circle cx="68" cy="17" r="6" fill="#15803d"/>
+  <text x="380" y="22" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#57606a">duaa-adnan@soc-console: ~</text>
+
+  <text x="30" y="70" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#15803d">$ whoami</text>
+  <text x="30" y="94" font-family="Consolas, 'Courier New', monospace" font-size="24" font-weight="bold" fill="#24292f">Duaa Bint E Adnan</text>
+  <text x="30" y="120" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#57606a">SOC Analyst</text>
+  <text x="140" y="120" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#d0d7de">|</text>
+  <text x="152" y="120" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#57606a">Blue Team</text>
+  <text x="252" y="120" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#d0d7de">|</text>
+  <text x="264" y="120" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#57606a">DFIR</text>
+  <rect x="330" y="107" width="10" height="16" fill="#15803d">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

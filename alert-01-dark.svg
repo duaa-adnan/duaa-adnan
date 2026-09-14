@@ -1,0 +1,9 @@
+<svg width="760" height="78" viewBox="0 0 760 78" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="78" rx="8" fill="#0d1117" stroke="#232b36" stroke-width="1.5"/>
+  <rect x="0" y="0" width="5" height="78" rx="2" fill="#f87171"/>
+  <text x="26" y="26" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">ALERT-0001</text>
+  <text x="140" y="26" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="bold" fill="#f87171">CRITICAL</text>
+  <text x="620" y="26" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#4ADE80">RESOLVED</text>
+  <text x="26" y="48" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="bold" fill="#c9d1d9">Zeus Banking Trojan Analysis</text>
+  <text x="26" y="67" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">Static &amp; dynamic analysis of a real banking trojan sample, IOC extraction, custom IDS rules.</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="760" height="230" viewBox="0 0 760 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="230" rx="8" fill="#0d1117" stroke="#232b36" stroke-width="1.5"/>
+  <rect x="0" y="0" width="5" height="230" rx="2" fill="#a78bfa"/>
+  <text x="26" y="30" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="bold" fill="#a78bfa">TICKET #EXP-001</text>
+  <text x="330" y="30" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">PRIORITY: P2</text>
+  <text x="652" y="30" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#4ADE80">STATUS: CLOSED</text>
+  <line x1="26" y1="44" x2="734" y2="44" stroke="#232b36" stroke-width="1"/>
+  <text x="26" y="62" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#a78bfa">[ORG]</text>
+  <text x="90" y="62" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#c9d1d9">Cyberster (Remote)</text>
+  <text x="26" y="84" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#a78bfa">[ROLE]</text>
+  <text x="90" y="84" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="bold" fill="#c9d1d9">Cybersecurity Analyst Intern, SOC &amp; DFIR</text>
+  <text x="26" y="106" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#a78bfa">[DATES]</text>
+  <text x="90" y="106" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">Jun 2026 - Sep 2026</text>
+  <line x1="26" y1="122" x2="734" y2="122" stroke="#232b36" stroke-width="1"/>
+  <text x="26" y="146" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">RESOLUTION NOTES:</text>
+  <text x="26" y="166" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">Led SOC and DFIR capstones (Red vs Blue simulation, M57.biz insider case),</text>
+  <text x="26" y="186" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">performed forensic imaging in FTK Imager/Autopsy, and ran malware analysis</text>
+  <text x="26" y="206" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">feeding a NIST-aligned Incident Response Plan and executive SOC dashboards.</text>
+</svg>

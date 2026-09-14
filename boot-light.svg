@@ -1,0 +1,26 @@
+<svg width="760" height="256" viewBox="0 0 760 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="256" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="30" y="30" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#57606a">system boot log</text>
+  
+  <text x="30" y="55" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#15803d" opacity="0">[OK] Initializing SOC workstation ...
+    <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="30" y="83" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#15803d" opacity="0">[OK] Connecting to Wazuh Manager ... connected
+    <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="30" y="111" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#15803d" opacity="0">[OK] Loading Suricata signature set ... 3 custom rules active
+    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="30" y="139" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#15803d" opacity="0">[OK] Syncing threat intel feeds (VirusTotal, URLhaus, Abuse.ch) ... synced
+    <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="30" y="167" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#15803d" opacity="0">[OK] Mounting DFIR toolchain (Autopsy, FTK Imager, EZ Tools) ... ready
+    <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="30" y="195" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#15803d" opacity="0">[OK] Authenticating analyst ... duaa-adnan verified
+    <animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="30" y="223" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#a16207" opacity="0">[READY] Console ready for triage. 6 open investigations loaded.
+    <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.3s" fill="freeze"/>
+  </text>
+</svg>

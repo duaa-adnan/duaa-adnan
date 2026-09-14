@@ -1,0 +1,19 @@
+<svg width="760" height="205" viewBox="0 0 760 205" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="205" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  
+  <text x="26" y="45" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#57606a">[CERT]</text>
+  <text x="90" y="45" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#24292f">Introduction to Cybersecurity, Cisco (2026)</text>
+  <text x="640" y="45" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#15803d">COMPLETE</text>
+  <text x="26" y="77" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#57606a">[CERT]</text>
+  <text x="90" y="77" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#24292f">SOC Level 1, TryHackMe</text>
+  <text x="640" y="77" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#a16207">IN PROGRESS</text>
+  <text x="26" y="109" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#57606a">[SIM]</text>
+  <text x="90" y="109" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#24292f">Forage: Mastercard, Deloitte, Tata Group, AIG, Datacom</text>
+  <text x="640" y="109" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#15803d">COMPLETE</text>
+  <text x="26" y="141" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#57606a">[CTF]</text>
+  <text x="90" y="141" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#24292f">Digital Pakistan Cybersecurity Hackathon 2026</text>
+  <text x="640" y="141" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#2563eb">PARTICIPANT</text>
+  <text x="26" y="173" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#57606a">[CTF]</text>
+  <text x="90" y="173" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#24292f">Black Hat MEA CTF 2026, Riyadh, Saudi Arabia</text>
+  <text x="640" y="173" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#2563eb">PARTICIPANT</text>
+</svg>
