@@ -1,0 +1,34 @@
+name: Update SOC Threat Radar
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # runs once a day
+  workflow_dispatch: {} # allows manual trigger from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  update-radar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate radar chart
+        run: python3 .github/scripts/soc_radar.py
+
+      - name: Commit updated radar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add badges/soc-radar.svg
+          git diff --staged --quiet || git commit -m "Update SOC threat radar"
+          git push
